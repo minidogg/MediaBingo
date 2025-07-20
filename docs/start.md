@@ -9,7 +9,7 @@ Then change directory to be in the repo's source directory
 cd MediaBingo/src
 `
 
-Now finally install dependencies and run the code
+Now finally install dependencies and run the code  
 `
 npm install
 npm run dev
