@@ -1,7 +1,10 @@
 # MediaBingo
 Make bingo with any kind of media whether it be songs, pictures, videos, or just plain numbers!
 
-Planned Features
+## Current Progress
+- Setup basic vue project and docs on how to get started
+
+## Planned Features
 - Web interface
 - Tauri interface
 - Pre-generate cards and system to check a card for bingo
