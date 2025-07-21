@@ -2,7 +2,7 @@
 Make bingo with any kind of media whether it be songs, pictures, videos, or just plain numbers!
 
 ## Current Progress
-- Setup basic vue project and docs on how to get started
+- Basic HTML Project
 
 ## Planned Features
 - Web interface
