@@ -81,6 +81,9 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+button:disabled{
+  background-color: #1a1a1a6c;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -93,4 +96,11 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+
+#menu{
+  display:flex;
+  flex-direction:column;
+  gap:4px;
 }
