@@ -2,7 +2,7 @@
 Make bingo with any kind of media whether it be songs, pictures, videos, or just plain numbers!
 
 ## Current Progress
-- Basic HTML Project
+- Basic Vite Project
 
 ## Planned Features
 - Web interface
